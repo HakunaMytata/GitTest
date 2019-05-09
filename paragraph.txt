@@ -1,0 +1,15 @@
+Check out the project's current issues. How do they resolve pull requests?
+
+They resolve pull request by merging them into the repository if They decided to accept their request.
+
+Can you get a sense of how contributions are evaluated in this community?
+
+Every people who try to make pull requests need to make sure to explain why these changes need to be made with an example Accept requests from bug fixing to improvement.
+
+How is the community organized?
+
+This community has its own forum that it's better to communicate with others before you made any pull requests.
+
+How is the repository/project organized?
+
+They organized their repository in several well-specified repositories, and used a simple comment to explain the purpose of the file and update it.
